@@ -1,0 +1,6 @@
+{
+  "name": "DependencyPulse",
+  "description": "Intelligent dependency risk analysis system modeling open-source supply chains as directed acyclic networks with structural criticality, propagation simulation, and cut-vertex mitigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

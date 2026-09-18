@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: -20;
+  }
+}
